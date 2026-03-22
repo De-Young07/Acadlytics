@@ -1,0 +1,5 @@
+student_id_hashed,course_code,semester,academic_year,grade,student_level,department
+a1b2c3,STA301,HARMATTAN,2022/2023,B,300,STAT
+d4e5f6,STA301,HARMATTAN,2022/2023,A,300,STAT
+g7h8i9,STA301,HARMATTAN,2022/2023,F,300,STAT
+j1k2l3,MTH101,RAIN,2021/2022,C,100,STAT
