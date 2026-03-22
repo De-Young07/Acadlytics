@@ -1,7 +1,7 @@
-# Acadlytiics — Project Definition
+# Acadlytics — Project Definition
 
 ## 1. Overview
-Acadlytiics is a data-driven academic analytics platform designed to support students, lecturers, and department administrators in making informed decisions based on statistical evidence.
+Acadlytics is a data-driven academic analytics platform designed to support students, lecturers, and department administrators in making informed decisions based on statistical evidence.
 
 ---
 
