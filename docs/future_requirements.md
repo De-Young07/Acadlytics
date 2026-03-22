@@ -1,4 +1,4 @@
-# Acadlytiics — Future Data Requirements
+# Acadlytics — Future Data Requirements
 
 ## 1. Lecturer Dataset
 Required fields:
