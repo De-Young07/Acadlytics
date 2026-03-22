@@ -1,4 +1,4 @@
-# Acadlytiics — Data Dictionary
+# Acadlytics — Data Dictionary
 
 ## Students.csv
 
