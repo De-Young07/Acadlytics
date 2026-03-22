@@ -1,4 +1,4 @@
-# 📊 Acadlytiics
+# 📊 Acadlytics
 
 A data-driven academic analytics platform designed to support **students**, **lecturers**, and **department administrators** in making informed, evidence-based decisions.
 
