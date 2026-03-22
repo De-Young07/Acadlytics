@@ -1,4 +1,4 @@
-# Acadlytiics — Data Inventory
+# Acadlytics — Data Inventory
 
 ## 1. Overview
 This document provides a structured overview of all datasets used in the project.
