@@ -1,4 +1,4 @@
-# Acadlytiics — Metrics & Statistical Definitions
+# Acadlytics — Metrics & Statistical Definitions
 
 ## 1. Purpose
 This document defines all statistical metrics used in the system to ensure consistency, interpretability, and reproducibility.
