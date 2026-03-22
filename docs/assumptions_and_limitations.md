@@ -1,4 +1,4 @@
-# Acadlytiics — Assumptions & Limitations
+# Acadlytics — Assumptions & Limitations
 
 ## 1. Data Assumptions
 
