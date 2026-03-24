@@ -1,0 +1,18 @@
+{
+  "phase_1": {
+    "status": "completed",
+    "completion": 100
+  },
+  "phase_2": {
+    "status": "in_progress",
+    "completion": 40
+  },
+  "phase_3": {
+    "status": "not_started",
+    "completion": 0
+  },
+  "phase_4": {
+    "status": "not_started",
+    "completion": 0
+  }
+}
